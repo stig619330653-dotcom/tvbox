@@ -1,195 +1,88 @@
 {
-    "sites": [
+    "urls": [
         {
-            "key": "fan-tai-ying",
             "name": "饭太硬",
-            "type": 3,
-            "api": "http://www.饭太硬.net/tv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "http://www.饭太硬.net/tv"
         },
         {
-            "key": "fei-mao",
             "name": "肥猫",
-            "type": 3,
-            "api": "http://肥猫.net/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "http://肥猫.net/"
         },
         {
-            "key": "lao-liu-bei",
             "name": "老刘备",
-            "type": 3,
-            "api": "https://raw.liucn.cc/box/m.json",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "https://raw.liucn.cc/box/m.json"
         },
         {
-            "key": "xiao-ma",
             "name": "小马",
-            "type": 3,
-            "api": "https://szyyds.cn/tv/x.json",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "https://szyyds.cn/tv/x.json"
         },
         {
-            "key": "mo-yu-er",
             "name": "摸鱼儿",
-            "type": 3,
-            "api": "http://摸鱼儿.cc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "http://摸鱼儿.cc"
         },
         {
-            "key": "wang-er-xiao",
             "name": "王二小",
-            "type": 3,
-            "api": "http://new.王二小放牛娃.top",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "http://new.王二小放牛娃.top"
         },
         {
-            "key": "xiao-he-zi-4k",
             "name": "小盒子4K",
-            "type": 3,
-            "api": "http://xhztv.top/4k.json",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "http://xhztv.top/4k.json"
         },
         {
-            "key": "xiao-he-zi-single",
             "name": "小盒子单仓",
-            "type": 3,
-            "api": "http://xhztv.top/xhz",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "http://xhztv.top/xhz"
         },
         {
-            "key": "vox",
             "name": "VOX",
-            "type": 3,
-            "api": "http://rihou.cc:88/demo.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "http://rihou.cc:88/demo.php"
         },
         {
-            "key": "ao-wu",
             "name": "嗷呜",
-            "type": 3,
-            "api": "http://itv666.cc/aowu/config.webp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "http://itv666.cc/aowu/config.webp"
         },
         {
-            "key": "wu-ming",
             "name": "无名",
-            "type": 3,
-            "api": "https://6800.kstore.vip/fish.json",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "https://6800.kstore.vip/fish.json"
         },
         {
-            "key": "xiao-he-zi-multi",
             "name": "小盒子多仓",
-            "type": 3,
-            "api": "http://xhztv.top/dc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "http://xhztv.top/dc"
         },
         {
-            "key": "shi-guang-multi",
             "name": "拾光多仓",
-            "type": 3,
-            "api": "http://xmbjm.fh4u.org/dc.txt",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "http://xmbjm.fh4u.org/dc.txt"
         },
         {
-            "key": "ting-hao-share-multi",
             "name": "挺好分享多仓",
-            "type": 3,
-            "api": "http://ztha.top/TVBox/GYCK.json",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "http://ztha.top/TVBox/GYCK.json"
         },
         {
-            "key": "xiao-he-zi",
             "name": "小盒子",
-            "type": 3,
-            "api": "https://www.xhztv.pro/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "https://www.xhztv.pro/"
         },
         {
-            "key": "tv-xn-yhqu5zs87a-top-3",
             "name": "FongMi 影视",
-            "type": 3,
-            "api": "https://tv.xn--yhqu5zs87a.top/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "https://tv.xn--yhqu5zs87a.top/"
         },
         {
-            "key": "yangke-peekpro",
             "name": "羊壳 PeekPro",
-            "type": 3,
-            "api": "https://b.zhuiju.me/archives/19/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "https://b.zhuiju.me/archives/19/"
         },
         {
-            "key": "webhometv-player",
             "name": "WebHomeTV",
-            "type": 3,
-            "api": "https://b.zhuiju.me/archives/18/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "https://b.zhuiju.me/archives/18/"
         },
         {
-            "key": "ok-yingshi-player",
             "name": "OK影视",
-            "type": 3,
-            "api": "https://b.zhuiju.me/archives/17/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "https://b.zhuiju.me/archives/17/"
         },
         {
-            "key": "fongmi-fengmi",
             "name": "FongMi 蜂蜜",
-            "type": 3,
-            "api": "https://b.zhuiju.me/archives/16/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "https://b.zhuiju.me/archives/16/"
         },
         {
-            "key": "yingshicang-player",
             "name": "影视仓",
-            "type": 3,
-            "api": "https://b.zhuiju.me/archives/15/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "url": "https://b.zhuiju.me/archives/15/"
         }
-    ],
-    "parses": [],
-    "rules": []
+    ]
 }
