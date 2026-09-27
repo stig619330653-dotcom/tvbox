@@ -7,39 +7,33 @@ try:
     req = urllib.request.urlopen(url)
     data = json.loads(req.read().decode("utf-8"))
 
-    sites = []
+    urls_list = []
     for item in data.get("resources", []):
         tags = item.get("tags", [])
         name = item.get("name", "")
         
-        # 精准匹配：只提取标签或名称中包含 tvbox、影视仓 或 配置地址的项
-        is_tvbox_resource = (
+        # 精准筛选出属于 TVBox / 影视仓配置地址的条目
+        is_tvbox_config = (
             any("tvbox" in t.lower() or "影视仓" in t or "配置" in t for t in tags) or
             "tvbox" in name.lower() or "影视仓" in name
         )
         
-        if is_tvbox_resource and item.get("url"):
-            site = {
-                "key": item.get("id", "free"),
+        item_url = item.get("url")
+        if is_tvbox_config and item_url:
+            # 构造多仓格式里每一条线路的对象
+            urls_list.append({
                 "name": name,
-                "type": 3,
-                "api": item.get("url"),
-                "searchable": 1,
-                "quickSearch": 1,
-                "filterable": 1,
-            }
-            sites.append(site)
+                "url": item_url
+            })
 
-    # 构造标准的 TVBox 格式
-    tvbox_config = {
-        "sites": sites,
-        "parses": [],
-        "rules": []
+    # 构造标准的 TVBox 多仓聚合格式
+    multi_config = {
+        "urls": urls_list
     }
 
     with open("tvbox.json", "w", encoding="utf-8") as f:
-        json.dump(tvbox_config, f, ensure_ascii=False, indent=4)
-    print("成功精准过滤并生成 TVBox 源：", len(sites))
+        json.dump(multi_config, f, ensure_ascii=False, indent=4)
+    print("成功生成多仓配置，共包含源：", len(urls_list))
 
 except Exception as e:
     print("转换失败:", e)
