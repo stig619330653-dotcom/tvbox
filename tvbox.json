@@ -1,472 +1,195 @@
 {
     "sites": [
         {
-            "key": "no-video",
-            "name": "No影视",
+            "key": "fan-tai-ying",
+            "name": "饭太硬",
             "type": 3,
-            "api": "https://novipnoad.org/",
+            "api": "http://www.饭太硬.net/tv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "gaze-red",
-            "name": "注视影视",
+            "key": "fei-mao",
+            "name": "肥猫",
             "type": 3,
-            "api": "https://gaze.red/",
+            "api": "http://肥猫.net/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "sotvla",
-            "name": "搜TV啦",
+            "key": "lao-liu-bei",
+            "name": "老刘备",
             "type": 3,
-            "api": "https://www.sotvla.cc/",
+            "api": "https://raw.liucn.cc/box/m.json",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "xlys",
-            "name": "雪落影视",
+            "key": "xiao-ma",
+            "name": "小马",
             "type": 3,
-            "api": "https://xlys.me/",
+            "api": "https://szyyds.cn/tv/x.json",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "duonao-video",
-            "name": "多瑙影视",
+            "key": "mo-yu-er",
+            "name": "摸鱼儿",
             "type": 3,
-            "api": "https://www.duonaovod.com",
+            "api": "http://摸鱼儿.cc",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "tdgo",
-            "name": "白嫖者联盟",
+            "key": "wang-er-xiao",
+            "name": "王二小",
             "type": 3,
-            "api": "https://www.tdgo.shop",
+            "api": "http://new.王二小放牛娃.top",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "ddmf",
-            "name": "蛋蛋魔法",
+            "key": "xiao-he-zi-4k",
+            "name": "小盒子4K",
             "type": 3,
-            "api": "https://ddmf.net",
+            "api": "http://xhztv.top/4k.json",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "sorani",
-            "name": "青空次元",
+            "key": "xiao-he-zi-single",
+            "name": "小盒子单仓",
             "type": 3,
-            "api": "https://www.sorani.net",
+            "api": "http://xhztv.top/xhz",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "appmovie",
-            "name": "APP影院",
+            "key": "vox",
+            "name": "VOX",
             "type": 3,
-            "api": "https://www.appmovie.art",
+            "api": "http://rihou.cc:88/demo.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "ai-movie",
-            "name": "爱电影",
+            "key": "ao-wu",
+            "name": "嗷呜",
             "type": 3,
-            "api": "https://kuhh4jo.com",
+            "api": "http://itv666.cc/aowu/config.webp",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "jpyy",
-            "name": "金牌影视",
+            "key": "wu-ming",
+            "name": "无名",
             "type": 3,
-            "api": "https://www.vv3nwjk.com",
+            "api": "https://6800.kstore.vip/fish.json",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "tv-937",
-            "name": "937影视",
+            "key": "xiao-he-zi-multi",
+            "name": "小盒子多仓",
             "type": 3,
-            "api": "https://www.937tv.vip",
+            "api": "http://xhztv.top/dc",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "iyf",
-            "name": "爱壹帆",
+            "key": "shi-guang-multi",
+            "name": "拾光多仓",
             "type": 3,
-            "api": "https://iyf.tv",
+            "api": "http://xmbjm.fh4u.org/dc.txt",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "czzymovie",
-            "name": "厂长资源",
+            "key": "ting-hao-share-multi",
+            "name": "挺好分享多仓",
             "type": 3,
-            "api": "https://www.czzymovie.com",
+            "api": "http://ztha.top/TVBox/GYCK.json",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "libvio",
-            "name": "LIBVIO",
+            "key": "xiao-he-zi",
+            "name": "小盒子",
             "type": 3,
-            "api": "https://libviobd.com",
+            "api": "https://www.xhztv.pro/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "auete-video",
-            "name": "Auete影视",
+            "key": "tv-xn-yhqu5zs87a-top-3",
+            "name": "FongMi 影视",
             "type": 3,
-            "api": "https://www.aeete.com",
+            "api": "https://tv.xn--yhqu5zs87a.top/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "dyrs",
-            "name": "电影人生",
+            "key": "yangke-peekpro",
+            "name": "羊壳 PeekPro",
             "type": 3,
-            "api": "https://dyrs.tv",
+            "api": "https://b.zhuiju.me/archives/19/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "darkvod",
-            "name": "黑夜影院",
+            "key": "webhometv-player",
+            "name": "WebHomeTV",
             "type": 3,
-            "api": "https://darkvod.com",
+            "api": "https://b.zhuiju.me/archives/18/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "netflixgc",
-            "name": "奈飞工厂",
+            "key": "ok-yingshi-player",
+            "name": "OK影视",
             "type": 3,
-            "api": "https://www.netflixgc.com",
+            "api": "https://b.zhuiju.me/archives/17/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "nfyingshi",
-            "name": "奈菲影视",
+            "key": "fongmi-fengmi",
+            "name": "FongMi 蜂蜜",
             "type": 3,
-            "api": "https://www.nfyingshi.com",
+            "api": "https://b.zhuiju.me/archives/16/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "nivod",
-            "name": "泥视频",
+            "key": "yingshicang-player",
+            "name": "影视仓",
             "type": 3,
-            "api": "https://www.nivod.vip",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "ppnix",
-            "name": "PPnix",
-            "type": 3,
-            "api": "https://www.ppnix.com/cn/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "dbku",
-            "name": "独播库",
-            "type": 3,
-            "api": "https://www.dbku.tv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "bubu-zhuiju",
-            "name": "布布追剧",
-            "type": 3,
-            "api": "https://bubuzhuiju.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "yingmao-cangku",
-            "name": "影猫仓库",
-            "type": 3,
-            "api": "https://www.ymck.pro",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "aikanbot",
-            "name": "爱看机器人",
-            "type": 3,
-            "api": "https://www1.aikanbot.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "duse91",
-            "name": "91毒舌",
-            "type": 3,
-            "api": "https://www.duse0.com/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "guangsu-yingshi",
-            "name": "光速影视",
-            "type": 3,
-            "api": "https://www.yingshiso.link/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "haohaokan",
-            "name": "好好看",
-            "type": 3,
-            "api": "https://www.hhkan2.com/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "ifn",
-            "name": "IFN",
-            "type": 3,
-            "api": "https://ifn.watch/register?code=8B1EF6",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "4kvm-cc-18",
-            "name": "4k影视",
-            "type": 3,
-            "api": "https://www.4kvm.cc/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "fdzys",
-            "name": "饭搭子影视",
-            "type": 3,
-            "api": "https://fdzys.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "sa-video",
-            "name": "SA视频",
-            "type": 3,
-            "api": "https://www.lsjys11.com/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "naifei-fyi-19",
-            "name": "奈飞工厂",
-            "type": 3,
-            "api": "https://naifei.fyi/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "juok",
-            "name": "剧OK",
-            "type": 3,
-            "api": "https://juok3.top/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "dandanqi",
-            "name": "蛋蛋奇",
-            "type": 3,
-            "api": "https://www.dandanqi.cc/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "zndy",
-            "name": "宅男影视",
-            "type": 3,
-            "api": "https://zndy.top/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "yingshidaquan",
-            "name": "影视大全",
-            "type": 3,
-            "api": "https://yingshidaquan.top/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "juzong",
-            "name": "剧踪影院",
-            "type": 3,
-            "api": "https://www.juzong01.me/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "jianyunys",
-            "name": "简云影视",
-            "type": 3,
-            "api": "https://jianyunys.com/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "pianku",
-            "name": "片库",
-            "type": 3,
-            "api": "https://4k01.pianku.online/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "66-dapianwang",
-            "name": "66 大片网",
-            "type": 3,
-            "api": "https://www.77dpw.vip/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "xhkan",
-            "name": "星河影视",
-            "type": 3,
-            "api": "https://www.xhkan.top/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "didahd",
-            "name": "嘀嗒影视",
-            "type": 3,
-            "api": "https://www.didahd.xyz/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "zhuiying",
-            "name": "追影",
-            "type": 3,
-            "api": "https://zhuiying3.cc/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "wbbb",
-            "name": "歪比巴卜",
-            "type": 3,
-            "api": "https://wbbb1.com/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "kxyy",
-            "name": "开心影院",
-            "type": 3,
-            "api": "https://www.kxyy1.cc/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "dhvideo",
-            "name": "豆花电影网",
-            "type": 3,
-            "api": "https://dhvideo.cc/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "zip0",
-            "name": "ZIP0",
-            "type": 3,
-            "api": "https://zip0.com/?r=KBDIG8",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "aipan-me-25",
-            "name": "爱盼",
-            "type": 3,
-            "api": "https://www.aipan.me/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "103-39-111-180-29",
-            "name": "可可影视",
-            "type": 3,
-            "api": "https://www.kkys14.com/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "skr-skr1-cc-9",
-            "name": "樱之空",
-            "type": 3,
-            "api": "https://skr.skr1.cc:666/",
+            "api": "https://b.zhuiju.me/archives/15/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         }
-    ]
+    ],
+    "parses": [],
+    "rules": []
 }
