@@ -2,13 +2,12 @@ name: Daily TVBox Config Build
 
 on:
   schedule:
-    # 每天北京时间早上 8:00 运行一次 (UTC 0:00)
     - cron: '0 0 * * *'
-  workflow_dispatch: # 支持手动点击按钮随时运行
+  workflow_dispatch:
 
 jobs:
   build:
-  runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
